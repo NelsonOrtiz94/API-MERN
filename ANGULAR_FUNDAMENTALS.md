@@ -1,4 +1,4 @@
-# 🎓 Guía Completa de Angular - Conceptos Fundamentales y Arquitectura Hexagonal
+#  Guía Completa de Angular - Conceptos Fundamentales y Arquitectura Hexagonal
 
 ## Índice
 1. [Componentes](#componentes)
