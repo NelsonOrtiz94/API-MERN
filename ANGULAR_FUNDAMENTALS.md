@@ -1,17 +1,3 @@
-#  Guía Completa de Angular - Conceptos Fundamentales y Arquitectura Hexagonal
-
-## Índice
-1. [Componentes](#componentes)
-2. [Servicios](#servicios)
-3. [Consumo de APIs](#consumo-de-apis)
-4. [Guards (Guardias)](#guards)
-5. [Directivas](#directivas)
-6. [Anotaciones (Decoradores)](#anotaciones)
-7. [RxJS](#rxjs)
-8. [Pruebas Unitarias](#pruebas-unitarias)
-9. [Arquitectura Hexagonal en Angular](#arquitectura-hexagonal)
-
----
 
 ## 1️⃣ Componentes
 
