@@ -23,7 +23,6 @@ cd frontend
 npm install
 npm start
 ```
-
 ### Opción 2: Sin instalación (MongoDB Atlas - Gratis)
 Ver [MONGODB_SIN_INSTALACION.md](MONGODB_SIN_INSTALACION.md) para configurar MongoDB en la nube.
 
