@@ -8,7 +8,6 @@ Aplicación completa de comercio electrónico desarrollada con el stack MERN (Mo
 ```powershell
 # 1. Iniciar MongoDB
 docker run -d -p 27017:27017 --name mongodb-ecommerce mongo:latest
-
 # O usando docker-compose
 docker-compose up -d
 
